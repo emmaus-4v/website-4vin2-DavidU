@@ -1,3 +1,11 @@
+/* Bassis instellingen */
+* {
+/*    border: solid 2px black;*/
+    margin: 0px;
+    box-sizing: border-box;
+    overflow:auto;
+}
+
 /* Basislayout */
 
 html, body {
@@ -32,6 +40,20 @@ footer {
     text-align: center;
     padding-bottom: 10px;
 }
+/* music page layout */
+.kolomlinks {
+    width: 200px;
+    float:left;
+    margin: 10px;
+}
+.kolomRechts {
+    width: calc(100% - 200px - 40px);
+    float:right;
+    margin: 10px;
+}
+
+
+
 
 
 /* specifieke stijlen */
