@@ -42,12 +42,12 @@ footer {
 }
 /* music page layout */
 .kolomlinks {
-    width: 200px;
+    width: 235px;
     float:left;
     margin: 10px;
 }
 .kolomRechts {
-    width: calc(100% - 200px - 40px);
+    width: calc(100% - 200px - 75px);
     float:right;
     margin: 10px;
 }
