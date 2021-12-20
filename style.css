@@ -40,6 +40,20 @@ footer {
     text-align: center;
     padding-bottom: 10px;
 }
+
+.middle {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .indxDiv {
+    background-color: rgb(189, 189, 189);    
+    text-align: center;
+    opacity:0.75;
+  }
+
 /* music page layout */
 .kolomlinks {
     width: 235px;
