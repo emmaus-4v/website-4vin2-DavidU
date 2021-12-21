@@ -54,7 +54,7 @@ footer {
     opacity:0.75;
   }
 
-    
+
 /* music page layout */
 .kolomlinks {
     width: 235px;
@@ -114,11 +114,11 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #636363;
+    background-color: gray;
 }
 
 nav li a.active {
-    background-color:#000000;
+    background-color: gray;
 }
 
 
